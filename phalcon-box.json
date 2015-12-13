@@ -7,7 +7,7 @@
                 "name": "virtualbox",
                 "url": "http://188.166.108.200/phalcon-box/boxes/phalcon-box_0.1.0.box",
                 "checksum_type": "sha1",
-                "checksum": "3fc5b48b62de1feadca13d3d01ce9083a025858c"
+                "checksum": "aa89efe70f162f3b0848a846d822ae2782d60ded"
         }]
     }]
 }
