@@ -29,4 +29,3 @@ Inspired by this [tutorial](https://github.com/hollodotme/Helpers/blob/master/Tu
 
 # Notes #
 - This box is not including any database. You can add this with ansible roles ([MySQL](https://github.com/geerlingguy/ansible-role-mysql), [MongoDB](https://github.com/UnderGreen/ansible-role-mongodb), etc.)
-- This repository includes .box file. You can get it using [https://git-lfs.github.com/](git lfs)
