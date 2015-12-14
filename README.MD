@@ -14,7 +14,6 @@ Inspired by this [tutorial](https://github.com/hollodotme/Helpers/blob/master/Tu
 ## PHP Stuff ##
 - PHP 5.6
 - Phalcon 2.0.*
-- Composer
 - Mcrypt
 - GD and Imagick
     
