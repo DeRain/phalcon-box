@@ -1,3 +1,5 @@
+# This repository is deprecated and archived!
+
 # Phalcon box
 This [Vagrant](https://www.vagrantup.com/) box helps to buld environment for [Phalcon](https://github.com/phalcon/cphalcon) projects. 
 Using [Ansible](https://github.com/ansible/ansible) as provision manager.
